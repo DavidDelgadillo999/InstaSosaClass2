@@ -1,15 +1,11 @@
 ﻿using System;
 namespace InstaGramSosa2.Models
 {
-    public class Posts
-    {
-        public Posts()
-        {
-            public class Posts
+   
+            public class PostsDTO
         {
             public int PostId { get; set; }
             public string PostDate { get; set; }
         }
-    }
-    }
+    
 }
