@@ -1,8 +1,12 @@
-﻿<Properties StartupConfiguration="{8E79F870-BD55-413A-A067-B1D92C6E0EA8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InstaGramSosa2/Program.cs">
-    <Files>
-      <File FileName="InstaGramSosa2/Program.cs" Line="18" Column="6" />
-    </Files>
+﻿<Properties StartupConfiguration="{5901D9A6-2B07-4DC1-828A-20F0EEC58011}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InstaGramSosa2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
