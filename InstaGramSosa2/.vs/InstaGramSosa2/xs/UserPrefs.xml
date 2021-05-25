@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8E79F870-BD55-413A-A067-B1D92C6E0EA8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InstaGramSosa2/Program.cs">
+    <Files>
+      <File FileName="InstaGramSosa2/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InstaGramSosa2" expanded="True">
+            <Node name="InstaGramSosa2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.InstaGramSosa2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
