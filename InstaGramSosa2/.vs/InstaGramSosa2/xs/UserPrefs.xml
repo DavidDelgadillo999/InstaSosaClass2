@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{8E79F870-BD55-413A-A067-B1D92C6E0EA8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InstaGramSosa2/DTOS/UsersDTO.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InstaGramSosa2/DTOS/Users.cs">
     <Files>
-      <File FileName="InstaGramSosa2/Program.cs" Line="10" Column="31" />
-      <File FileName="InstaGramSosa2/Models/Users.cs" Line="12" Column="30" />
-      <File FileName="InstaGramSosa2/Models/Roles.cs" Line="16" Column="1" />
-      <File FileName="InstaGramSosa2/Models/Images.cs" Line="12" Column="10" />
-      <File FileName="InstaGramSosa2/Models/Posts.cs" Line="16" Column="1" />
-      <File FileName="InstaGramSosa2/Models/Comments.cs" Line="12" Column="10" />
-      <File FileName="InstaGramSosa2/DTOS/Comments.cs" Line="4" Column="29" />
-      <File FileName="InstaGramSosa2/DTOS/ImagesDTO.cs" Line="4" Column="27" />
-      <File FileName="InstaGramSosa2/DTOS/PostsDTO.cs" Line="4" Column="26" />
-      <File FileName="InstaGramSosa2/DTOS/RolesDTO.cs" Line="4" Column="26" />
+      <File FileName="InstaGramSosa2/Program.cs" Line="10" Column="43" />
+      <File FileName="InstaGramSosa2/Models/Users.cs" Line="12" Column="1" />
+      <File FileName="InstaGramSosa2/Models/Roles.cs" Line="7" Column="30" />
+      <File FileName="InstaGramSosa2/Models/Images.cs" Line="9" Column="5" />
+      <File FileName="InstaGramSosa2/Models/Posts.cs" Line="10" Column="5" />
+      <File FileName="InstaGramSosa2/Models/Comments.cs" Line="4" Column="5" />
       <File FileName="InstaGramSosa2/DTOS/UsersDTO.cs" Line="4" Column="26" />
+      <File FileName="InstaGramSosa2/DTOS/Comments.cs" Line="5" Column="37" />
+      <File FileName="InstaGramSosa2/DTOS/Images.cs" Line="5" Column="35" />
+      <File FileName="InstaGramSosa2/DTOS/Posts.cs" Line="10" Column="5" />
+      <File FileName="InstaGramSosa2/DTOS/Roles.cs" Line="6" Column="34" />
+      <File FileName="InstaGramSosa2/DTOS/Users.cs" Line="11" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +20,7 @@
           <Node name="InstaGramSosa2" expanded="True">
             <Node name="InstaGramSosa2" expanded="True">
               <Node name="DTOS" expanded="True">
-                <Node name="UsersDTO.cs" selected="True" />
+                <Node name="Users.cs" selected="True" />
               </Node>
               <Node name="Models" expanded="True" />
             </Node>
